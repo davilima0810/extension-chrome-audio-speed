@@ -1,0 +1,22 @@
+.twoTimesButton{
+  color: gray;
+  
+  background-color: transparent;
+  border: none;
+  margin-left: 5px;
+}
+
+.timesSelect{
+  color:rgb(0, 149, 136);
+  background-color: transparent;
+  max-width: 2rem;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-left: 5px;
+}
+
+.optionTag{
+  color:rgb(0, 149, 136);
+  font-size: 1rem;
+  font-weight: bold;
+}
